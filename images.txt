@@ -1,1 +1,1 @@
-prom/node-exporter：v1.81
+registry.k8s.io/prom/node-exporter：v1.81
